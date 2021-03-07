@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC Azul",
+      "price": 5
+    },
+    {
+      "id": 3,
+      "name": "Notebook Lenovo",
+      "price": 4999
+    },
+    {
+      "id": 4,
+      "name": "Geladeira",
+      "price": 4999
+    },
+    {
+      "name": "Porta",
+      "price": 99.99,
+      "id": 5
+    }
+  ]
+}
